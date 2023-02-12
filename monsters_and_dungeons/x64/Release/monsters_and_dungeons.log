@@ -1,0 +1,15 @@
+﻿  Creature.cpp
+  GameFunctions.cpp
+  main.cpp
+  Monster.cpp
+D:\Programming\monsters_and_dungeons\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(22,13): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\monsters_and_dungeons\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(30,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\Programming\monsters_and_dungeons\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(22,13): warning C4309: 'initializing': truncation of constant value
+D:\Programming\monsters_and_dungeons\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(25,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\Programming\monsters_and_dungeons\monsters-and-dungeon-console-game\monsters-and-dungeon-console-game\Monster.cpp(25,17): warning C4309: 'initializing': truncation of constant value
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  monsters_and_dungeons.vcxproj -> D:\Programming\Pet Projects\monsters_and_dungeons\monsters_and_dungeons\x64\Release\monsters_and_dungeons.exe
